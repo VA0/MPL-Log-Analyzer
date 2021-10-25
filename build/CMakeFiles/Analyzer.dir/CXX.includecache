@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arch/Desktop/MPL Analyzer/Line.hpp
+Line.tpp
+/home/arch/Desktop/MPL Analyzer/Line.tpp
+
+/home/arch/Desktop/MPL Analyzer/Line.tpp
+execution
+-
+cstring
+-
+exception
+-
+regex
+-
+algorithm
+-
+Line.hpp
+/home/arch/Desktop/MPL Analyzer/Line.hpp
+
+/home/arch/Desktop/MPL Analyzer/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+chrono
+-
+filesystem
+-
+Line.hpp
+/home/arch/Desktop/MPL Analyzer/Line.hpp
+Line.tpp
+/home/arch/Desktop/MPL Analyzer/Line.tpp
+

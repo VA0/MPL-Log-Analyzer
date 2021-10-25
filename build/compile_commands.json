@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/arch/Desktop/MPL Analyzer/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -std=gnu++2a -o CMakeFiles/Analyzer.dir/main.cpp.o -c \"/home/arch/Desktop/MPL Analyzer/main.cpp\"",
+  "file": "/home/arch/Desktop/MPL Analyzer/main.cpp"
+},
+{
+  "directory": "/home/arch/Desktop/MPL Analyzer/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -std=gnu++2a -o CMakeFiles/Analyzer.dir/Line.cpp.o -c \"/home/arch/Desktop/MPL Analyzer/Line.cpp\"",
+  "file": "/home/arch/Desktop/MPL Analyzer/Line.cpp"
+}
+]
